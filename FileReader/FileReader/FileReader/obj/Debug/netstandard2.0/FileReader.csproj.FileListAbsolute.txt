@@ -1,0 +1,12 @@
+C:\Users\v-kemood\source\repos\FileReader\FileReader\FileReader\bin\Debug\netstandard2.0\FileReader.deps.json
+C:\Users\v-kemood\source\repos\FileReader\FileReader\FileReader\bin\Debug\netstandard2.0\FileReader.dll
+C:\Users\v-kemood\source\repos\FileReader\FileReader\FileReader\bin\Debug\netstandard2.0\FileReader.pdb
+C:\Users\v-kemood\source\repos\FileReader\FileReader\FileReader\obj\Debug\netstandard2.0\FileReader.csprojAssemblyReference.cache
+C:\Users\v-kemood\source\repos\FileReader\FileReader\FileReader\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\v-kemood\source\repos\FileReader\FileReader\FileReader\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\v-kemood\source\repos\FileReader\FileReader\FileReader\obj\Debug\netstandard2.0\FileReader.csproj.CoreCompileInputs.cache
+C:\Users\v-kemood\source\repos\FileReader\FileReader\FileReader\obj\Debug\netstandard2.0\FileReader.AssemblyInfoInputs.cache
+C:\Users\v-kemood\source\repos\FileReader\FileReader\FileReader\obj\Debug\netstandard2.0\FileReader.AssemblyInfo.cs
+C:\Users\v-kemood\source\repos\FileReader\FileReader\FileReader\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\v-kemood\source\repos\FileReader\FileReader\FileReader\obj\Debug\netstandard2.0\FileReader.dll
+C:\Users\v-kemood\source\repos\FileReader\FileReader\FileReader\obj\Debug\netstandard2.0\FileReader.pdb
