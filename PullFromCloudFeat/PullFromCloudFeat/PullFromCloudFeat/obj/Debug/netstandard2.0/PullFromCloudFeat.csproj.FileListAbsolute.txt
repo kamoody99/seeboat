@@ -1,0 +1,12 @@
+C:\Users\v-kemood\source\repos\PullFromCloudFeat\PullFromCloudFeat\PullFromCloudFeat\bin\Debug\netstandard2.0\PullFromCloudFeat.deps.json
+C:\Users\v-kemood\source\repos\PullFromCloudFeat\PullFromCloudFeat\PullFromCloudFeat\bin\Debug\netstandard2.0\PullFromCloudFeat.dll
+C:\Users\v-kemood\source\repos\PullFromCloudFeat\PullFromCloudFeat\PullFromCloudFeat\bin\Debug\netstandard2.0\PullFromCloudFeat.pdb
+C:\Users\v-kemood\source\repos\PullFromCloudFeat\PullFromCloudFeat\PullFromCloudFeat\obj\Debug\netstandard2.0\PullFromCloudFeat.csprojAssemblyReference.cache
+C:\Users\v-kemood\source\repos\PullFromCloudFeat\PullFromCloudFeat\PullFromCloudFeat\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\v-kemood\source\repos\PullFromCloudFeat\PullFromCloudFeat\PullFromCloudFeat\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\v-kemood\source\repos\PullFromCloudFeat\PullFromCloudFeat\PullFromCloudFeat\obj\Debug\netstandard2.0\PullFromCloudFeat.csproj.CoreCompileInputs.cache
+C:\Users\v-kemood\source\repos\PullFromCloudFeat\PullFromCloudFeat\PullFromCloudFeat\obj\Debug\netstandard2.0\PullFromCloudFeat.AssemblyInfoInputs.cache
+C:\Users\v-kemood\source\repos\PullFromCloudFeat\PullFromCloudFeat\PullFromCloudFeat\obj\Debug\netstandard2.0\PullFromCloudFeat.AssemblyInfo.cs
+C:\Users\v-kemood\source\repos\PullFromCloudFeat\PullFromCloudFeat\PullFromCloudFeat\obj\Debug\netstandard2.0\PullFromCloudFeat.dll
+C:\Users\v-kemood\source\repos\PullFromCloudFeat\PullFromCloudFeat\PullFromCloudFeat\obj\Debug\netstandard2.0\PullFromCloudFeat.pdb
+C:\Users\v-kemood\source\repos\PullFromCloudFeat\PullFromCloudFeat\PullFromCloudFeat\obj\Debug\netstandard2.0\XamlC.stamp
